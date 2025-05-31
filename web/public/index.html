@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biểu đồ dự đoán giá cổ phiếu</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div>
+                <span class="stock-price" id="stockPrice">Đang tải...</span>
+                <span class="stock-change" id="stockChange"></span>
+            </div>
+            <select class="dropdown" id="stockDropdown" aria-label="Chọn mã cổ phiếu">
+                <!-- Danh sách mã cổ phiếu sẽ được điền tự động -->
+            </select>
+        </div>
+        <div class="time-buttons">
+            <button id="range-5D">5D</button>
+            <button id="range-1M">1M</button>
+            <button id="range-6M">6M</button>
+            <button id="range-YTD">YTD</button>
+            <button id="range-1Y">1Y</button>
+            <button id="range-5Y">5Y</button>
+            <button id="range-Max" class="active">Max</button>
+        </div>
+        <canvas id="stockChart"></canvas>
+        <div id="chartError" class="error"></div>
+        <div class="stock-info">
+            <div>Open: <span id="openPrice"></span></div>
+            <div>High: <span id="highPrice"></span></div>
+            <div>Low: <span id="lowPrice"></span></div>
+            <div>Mkt cap: <span id="marketCap"></span></div>
+            <div>P/E ratio: <span id="peRatio"></span></div>
+            <div>Div yield: <span id="divYield"></span></div>
+            <div>52-wk high: <span id="high52"></span></div>
+            <div>52-wk low: <span id="low52"></span></div>
+        </div>
+        <div class="prediction-controls">
+            <p>Hiện tại: <span id="currentDate">Đang tải...</span></p>
+            <label for="daysInput">Dự đoán sau:</label>
+            <input type="number" id="daysInput" min="1" value="1">
+            <span>ngày</span>
+            <button id="predictButton">Dự đoán</button>
+        </div>
+        <div class="prediction" id="prediction">
+            <h3>Dự đoán giá cổ phiếu</h3>
+            <p>Ngày dự đoán: <span id="predDate">Đang tải...</span></p>
+            <p>Giá dự đoán: <span id="predPrice">Đang tải...</span> USD</p>
+            <p class="actual-price">Giá thực tế: <span id="actualPrice">Đang tải...</span> USD</p>
+            <div id="predError" class="error"></div>
+        </div>
+    </div>
+
+    <!-- Liên kết các file JavaScript -->
+    <script type="module" src="js/chartConfig.js"></script>
+    <script type="module" src="js/api.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>
