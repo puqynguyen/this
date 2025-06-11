@@ -1,0 +1,420 @@
+2025-05-31 21:43:16,783 - INFO - 
+Kết quả đánh giá trên tập validation cho AAPL:
+2025-05-31 21:43:16,784 - INFO - MAE: 0.0689
+2025-05-31 21:43:16,784 - INFO - MSE: 0.0053
+2025-05-31 21:43:16,784 - INFO - RMSE: 0.0729
+2025-05-31 21:43:16,784 - INFO - R²: -11.9557
+2025-05-31 21:43:17,029 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_AAPL.png
+2025-05-31 21:45:24,569 - INFO - 
+Kết quả đánh giá trên tập validation cho AAPL:
+2025-05-31 21:45:24,569 - INFO - MAE: 0.1338
+2025-05-31 21:45:24,570 - INFO - MSE: 0.0217
+2025-05-31 21:45:24,571 - INFO - RMSE: 0.1474
+2025-05-31 21:45:24,571 - INFO - R²: -1.4424
+2025-05-31 21:45:24,742 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_AAPL.png
+2025-05-31 21:47:24,353 - INFO - 
+Kết quả đánh giá trên tập validation cho AAPL:
+2025-05-31 21:47:24,353 - INFO - MAE: 0.2005
+2025-05-31 21:47:24,353 - INFO - MSE: 0.0637
+2025-05-31 21:47:24,353 - INFO - RMSE: 0.2524
+2025-05-31 21:47:24,354 - INFO - R²: -1.4464
+2025-05-31 21:47:24,660 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_AAPL.png
+2025-05-31 21:49:27,138 - INFO - 
+Kết quả đánh giá trên tập validation cho AAPL:
+2025-05-31 21:49:27,138 - INFO - MAE: 0.1903
+2025-05-31 21:49:27,138 - INFO - MSE: 0.0382
+2025-05-31 21:49:27,138 - INFO - RMSE: 0.1955
+2025-05-31 21:49:27,138 - INFO - R²: -17.4251
+2025-05-31 21:49:27,378 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_AAPL.png
+2025-05-31 21:50:57,373 - INFO - 
+Kết quả đánh giá trên tập validation cho AAPL:
+2025-05-31 21:50:57,374 - INFO - MAE: 0.1975
+2025-05-31 21:50:57,374 - INFO - MSE: 0.0466
+2025-05-31 21:50:57,374 - INFO - RMSE: 0.2160
+2025-05-31 21:50:57,375 - INFO - R²: -16.4407
+2025-05-31 21:50:57,681 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_AAPL.png
+2025-05-31 21:50:57,976 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_AAPL.png
+2025-05-31 21:50:58,330 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho AAPL:
+2025-05-31 21:50:58,331 - INFO - sentiment_score: 0.002063
+2025-05-31 21:50:58,332 - INFO - impact_score: 0.008111
+2025-05-31 21:50:58,332 - INFO - has_news: 0.039193
+2025-05-31 21:50:58,332 - INFO - medium_term_score: 0.030571
+2025-05-31 21:50:58,333 - INFO - prominence: 0.026073
+2025-05-31 21:50:58,333 - INFO - timeliness: 0.021580
+2025-05-31 21:50:58,333 - INFO - confidence: 0.012658
+2025-05-31 21:50:58,334 - INFO - short_term_score: 0.018991
+2025-05-31 21:50:58,334 - INFO - relevance_score: 0.014816
+2025-05-31 21:50:58,335 - INFO - direct_impact: 0.017701
+2025-05-31 21:50:58,335 - INFO - target_mentioned: 0.005038
+2025-05-31 21:50:58,336 - INFO - sentiment_label: 0.017689
+2025-05-31 21:50:58,336 - INFO - 
+Tầm quan trọng của các loại tin tức cho AAPL:
+2025-05-31 21:50:58,337 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 21:50:58,337 - INFO - topic_ai_sector: 0.000000
+2025-05-31 21:50:58,337 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 21:50:58,338 - INFO - topic_financial_performance: 0.000000
+2025-05-31 21:50:58,338 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 21:50:58,339 - INFO - topic_competition: 0.000000
+2025-05-31 21:50:58,339 - INFO - topic_market_conditions: 0.000000
+2025-05-31 21:50:58,340 - INFO - topic_technology: 0.000000
+2025-05-31 21:51:40,365 - INFO - 
+Kết quả đánh giá trên tập validation cho BID:
+2025-05-31 21:51:40,365 - INFO - MAE: 1.0782
+2025-05-31 21:51:40,365 - INFO - MSE: 1.1908
+2025-05-31 21:51:40,365 - INFO - RMSE: 1.0912
+2025-05-31 21:51:40,366 - INFO - R²: -42.6306
+2025-05-31 21:51:40,573 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_BID.png
+2025-05-31 21:54:11,210 - INFO - 
+Kết quả đánh giá trên tập validation cho BID:
+2025-05-31 21:54:11,210 - INFO - MAE: 0.1291
+2025-05-31 21:54:11,211 - INFO - MSE: 0.0266
+2025-05-31 21:54:11,211 - INFO - RMSE: 0.1630
+2025-05-31 21:54:11,211 - INFO - R²: -3.3556
+2025-05-31 21:54:11,396 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_BID.png
+2025-05-31 21:54:21,405 - INFO - 
+Kết quả đánh giá trên tập validation cho BID:
+2025-05-31 21:54:21,405 - INFO - MAE: 0.3743
+2025-05-31 21:54:21,406 - INFO - MSE: 0.1864
+2025-05-31 21:54:21,406 - INFO - RMSE: 0.4318
+2025-05-31 21:54:21,406 - INFO - R²: -0.6885
+2025-05-31 21:54:21,583 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_BID.png
+2025-05-31 21:55:57,405 - INFO - 
+Kết quả đánh giá trên tập validation cho BID:
+2025-05-31 21:55:57,405 - INFO - MAE: 0.0818
+2025-05-31 21:55:57,405 - INFO - MSE: 0.0111
+2025-05-31 21:55:57,406 - INFO - RMSE: 0.1054
+2025-05-31 21:55:57,406 - INFO - R²: -6.8748
+2025-05-31 21:55:57,571 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_BID.png
+2025-05-31 21:56:19,533 - INFO - 
+Kết quả đánh giá trên tập validation cho BID:
+2025-05-31 21:56:19,534 - INFO - MAE: 0.1168
+2025-05-31 21:56:19,534 - INFO - MSE: 0.0192
+2025-05-31 21:56:19,534 - INFO - RMSE: 0.1387
+2025-05-31 21:56:19,534 - INFO - R²: -0.4793
+2025-05-31 21:56:19,705 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_BID.png
+2025-05-31 21:56:19,874 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_BID.png
+2025-05-31 21:56:19,943 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho BID:
+2025-05-31 21:56:19,944 - INFO - sentiment_score: 0.024259
+2025-05-31 21:56:19,944 - INFO - impact_score: 0.012194
+2025-05-31 21:56:19,944 - INFO - has_news: 0.006007
+2025-05-31 21:56:19,944 - INFO - medium_term_score: 0.001870
+2025-05-31 21:56:19,944 - INFO - prominence: 0.027387
+2025-05-31 21:56:19,944 - INFO - timeliness: 0.010114
+2025-05-31 21:56:19,944 - INFO - confidence: 0.006352
+2025-05-31 21:56:19,944 - INFO - short_term_score: 0.010111
+2025-05-31 21:56:19,944 - INFO - relevance_score: 0.010524
+2025-05-31 21:56:19,944 - INFO - direct_impact: 0.008794
+2025-05-31 21:56:19,944 - INFO - target_mentioned: 0.018938
+2025-05-31 21:56:19,944 - INFO - sentiment_label: 0.005510
+2025-05-31 21:56:19,945 - INFO - 
+Tầm quan trọng của các loại tin tức cho BID:
+2025-05-31 21:56:19,945 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_ai_sector: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_financial_performance: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_competition: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_market_conditions: 0.000000
+2025-05-31 21:56:19,945 - INFO - topic_technology: 0.000000
+2025-05-31 21:58:22,810 - INFO - 
+Kết quả đánh giá trên tập validation cho FPT:
+2025-05-31 21:58:22,811 - INFO - MAE: 0.0984
+2025-05-31 21:58:22,811 - INFO - MSE: 0.0119
+2025-05-31 21:58:22,814 - INFO - RMSE: 0.1089
+2025-05-31 21:58:22,815 - INFO - R²: -3.3339
+2025-05-31 21:58:23,139 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_FPT.png
+2025-05-31 22:03:54,109 - INFO - 
+Kết quả đánh giá trên tập validation cho FPT:
+2025-05-31 22:03:54,109 - INFO - MAE: 0.0328
+2025-05-31 22:03:54,109 - INFO - MSE: 0.0013
+2025-05-31 22:03:54,110 - INFO - RMSE: 0.0364
+2025-05-31 22:03:54,110 - INFO - R²: -0.5861
+2025-05-31 22:03:54,309 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_FPT.png
+2025-05-31 22:08:35,916 - INFO - 
+Kết quả đánh giá trên tập validation cho FPT:
+2025-05-31 22:08:35,917 - INFO - MAE: 0.0232
+2025-05-31 22:08:35,917 - INFO - MSE: 0.0007
+2025-05-31 22:08:35,917 - INFO - RMSE: 0.0259
+2025-05-31 22:08:35,917 - INFO - R²: -4.1821
+2025-05-31 22:08:36,110 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_FPT.png
+2025-05-31 22:09:19,067 - INFO - 
+Kết quả đánh giá trên tập validation cho FPT:
+2025-05-31 22:09:19,068 - INFO - MAE: 0.0969
+2025-05-31 22:09:19,068 - INFO - MSE: 0.0101
+2025-05-31 22:09:19,069 - INFO - RMSE: 0.1005
+2025-05-31 22:09:19,069 - INFO - R²: -11.4679
+2025-05-31 22:09:19,283 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_FPT.png
+2025-05-31 22:10:14,448 - INFO - 
+Kết quả đánh giá trên tập validation cho FPT:
+2025-05-31 22:10:14,448 - INFO - MAE: 0.3372
+2025-05-31 22:10:14,448 - INFO - MSE: 0.1246
+2025-05-31 22:10:14,449 - INFO - RMSE: 0.3529
+2025-05-31 22:10:14,449 - INFO - R²: -40.6403
+2025-05-31 22:10:14,633 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_FPT.png
+2025-05-31 22:10:14,798 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_FPT.png
+2025-05-31 22:10:14,856 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho FPT:
+2025-05-31 22:10:14,856 - INFO - sentiment_score: 0.031032
+2025-05-31 22:10:14,856 - INFO - impact_score: 0.028270
+2025-05-31 22:10:14,856 - INFO - has_news: 0.052840
+2025-05-31 22:10:14,856 - INFO - medium_term_score: 0.016182
+2025-05-31 22:10:14,856 - INFO - prominence: 0.008410
+2025-05-31 22:10:14,856 - INFO - timeliness: 0.010276
+2025-05-31 22:10:14,858 - INFO - confidence: 0.005352
+2025-05-31 22:10:14,858 - INFO - short_term_score: 0.006667
+2025-05-31 22:10:14,858 - INFO - relevance_score: 0.018228
+2025-05-31 22:10:14,858 - INFO - direct_impact: 0.010175
+2025-05-31 22:10:14,858 - INFO - target_mentioned: 0.003455
+2025-05-31 22:10:14,858 - INFO - sentiment_label: 0.012182
+2025-05-31 22:10:14,858 - INFO - 
+Tầm quan trọng của các loại tin tức cho FPT:
+2025-05-31 22:10:14,858 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_ai_sector: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_financial_performance: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_competition: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_market_conditions: 0.000000
+2025-05-31 22:10:14,859 - INFO - topic_technology: 0.000000
+2025-05-31 22:12:22,621 - INFO - 
+Kết quả đánh giá trên tập validation cho MBB:
+2025-05-31 22:12:22,621 - INFO - MAE: 0.3440
+2025-05-31 22:12:22,622 - INFO - MSE: 0.1198
+2025-05-31 22:12:22,622 - INFO - RMSE: 0.3461
+2025-05-31 22:12:22,622 - INFO - R²: -96.8767
+2025-05-31 22:12:22,964 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_MBB.png
+2025-05-31 22:16:06,115 - INFO - 
+Kết quả đánh giá trên tập validation cho MBB:
+2025-05-31 22:16:06,115 - INFO - MAE: 0.0751
+2025-05-31 22:16:06,115 - INFO - MSE: 0.0082
+2025-05-31 22:16:06,115 - INFO - RMSE: 0.0907
+2025-05-31 22:16:06,116 - INFO - R²: -0.3777
+2025-05-31 22:16:06,295 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_MBB.png
+2025-05-31 22:16:34,704 - INFO - 
+Kết quả đánh giá trên tập validation cho MBB:
+2025-05-31 22:16:34,705 - INFO - MAE: 0.1966
+2025-05-31 22:16:34,705 - INFO - MSE: 0.0411
+2025-05-31 22:16:34,705 - INFO - RMSE: 0.2026
+2025-05-31 22:16:34,705 - INFO - R²: -101.4560
+2025-05-31 22:16:34,883 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_MBB.png
+2025-05-31 22:17:13,079 - INFO - 
+Kết quả đánh giá trên tập validation cho MBB:
+2025-05-31 22:17:13,079 - INFO - MAE: 0.1226
+2025-05-31 22:17:13,079 - INFO - MSE: 0.0220
+2025-05-31 22:17:13,079 - INFO - RMSE: 0.1483
+2025-05-31 22:17:13,079 - INFO - R²: -0.0991
+2025-05-31 22:17:13,263 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_MBB.png
+2025-05-31 22:24:15,897 - INFO - 
+Kết quả đánh giá trên tập validation cho MBB:
+2025-05-31 22:24:15,897 - INFO - MAE: 0.0756
+2025-05-31 22:24:15,898 - INFO - MSE: 0.0074
+2025-05-31 22:24:15,898 - INFO - RMSE: 0.0861
+2025-05-31 22:24:15,898 - INFO - R²: -0.0821
+2025-05-31 22:24:16,255 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_MBB.png
+2025-05-31 22:24:16,418 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_MBB.png
+2025-05-31 22:24:16,462 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho MBB:
+2025-05-31 22:24:16,462 - INFO - sentiment_score: 0.007298
+2025-05-31 22:24:16,462 - INFO - impact_score: 0.004763
+2025-05-31 22:24:16,463 - INFO - has_news: 0.012985
+2025-05-31 22:24:16,463 - INFO - medium_term_score: 0.013025
+2025-05-31 22:24:16,463 - INFO - prominence: 0.003390
+2025-05-31 22:24:16,463 - INFO - timeliness: 0.001805
+2025-05-31 22:24:16,463 - INFO - confidence: 0.015363
+2025-05-31 22:24:16,463 - INFO - short_term_score: 0.009455
+2025-05-31 22:24:16,463 - INFO - relevance_score: 0.014155
+2025-05-31 22:24:16,463 - INFO - direct_impact: 0.019916
+2025-05-31 22:24:16,465 - INFO - target_mentioned: 0.006963
+2025-05-31 22:24:16,465 - INFO - sentiment_label: 0.024090
+2025-05-31 22:24:16,465 - INFO - 
+Tầm quan trọng của các loại tin tức cho MBB:
+2025-05-31 22:24:16,465 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 22:24:16,465 - INFO - topic_ai_sector: 0.000000
+2025-05-31 22:24:16,465 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 22:24:16,465 - INFO - topic_financial_performance: 0.000000
+2025-05-31 22:24:16,465 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 22:24:16,466 - INFO - topic_competition: 0.000000
+2025-05-31 22:24:16,466 - INFO - topic_market_conditions: 0.000000
+2025-05-31 22:24:16,466 - INFO - topic_technology: 0.000000
+2025-05-31 22:26:26,059 - INFO - 
+Kết quả đánh giá trên tập validation cho META:
+2025-05-31 22:26:26,059 - INFO - MAE: 0.0644
+2025-05-31 22:26:26,060 - INFO - MSE: 0.0053
+2025-05-31 22:26:26,060 - INFO - RMSE: 0.0728
+2025-05-31 22:26:26,060 - INFO - R²: -8.1043
+2025-05-31 22:26:26,429 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_META.png
+2025-05-31 22:27:18,979 - INFO - 
+Kết quả đánh giá trên tập validation cho META:
+2025-05-31 22:27:18,979 - INFO - MAE: 0.1153
+2025-05-31 22:27:18,979 - INFO - MSE: 0.0149
+2025-05-31 22:27:18,980 - INFO - RMSE: 0.1221
+2025-05-31 22:27:18,980 - INFO - R²: -27.9173
+2025-05-31 22:27:19,151 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_META.png
+2025-05-31 22:28:01,594 - INFO - 
+Kết quả đánh giá trên tập validation cho META:
+2025-05-31 22:28:01,594 - INFO - MAE: 0.0767
+2025-05-31 22:28:01,594 - INFO - MSE: 0.0063
+2025-05-31 22:28:01,594 - INFO - RMSE: 0.0793
+2025-05-31 22:28:01,594 - INFO - R²: -35.3739
+2025-05-31 22:28:01,759 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_META.png
+2025-05-31 22:47:32,488 - INFO - 
+Kết quả đánh giá trên tập validation cho META:
+2025-05-31 22:47:32,488 - INFO - MAE: 0.0179
+2025-05-31 22:47:32,488 - INFO - MSE: 0.0005
+2025-05-31 22:47:32,489 - INFO - RMSE: 0.0217
+2025-05-31 22:47:32,489 - INFO - R²: -2.4872
+2025-05-31 22:47:32,815 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_META.png
+2025-05-31 22:51:04,149 - INFO - 
+Kết quả đánh giá trên tập validation cho META:
+2025-05-31 22:51:04,150 - INFO - MAE: 0.0918
+2025-05-31 22:51:04,150 - INFO - MSE: 0.0122
+2025-05-31 22:51:04,150 - INFO - RMSE: 0.1103
+2025-05-31 22:51:04,150 - INFO - R²: -6.9107
+2025-05-31 22:51:04,342 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_META.png
+2025-05-31 22:51:04,517 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_META.png
+2025-05-31 22:51:04,548 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho META:
+2025-05-31 22:51:04,548 - INFO - sentiment_score: 0.005776
+2025-05-31 22:51:04,548 - INFO - impact_score: 0.015400
+2025-05-31 22:51:04,548 - INFO - has_news: 0.005212
+2025-05-31 22:51:04,549 - INFO - medium_term_score: 0.007106
+2025-05-31 22:51:04,549 - INFO - prominence: 0.001944
+2025-05-31 22:51:04,549 - INFO - timeliness: 0.004163
+2025-05-31 22:51:04,549 - INFO - confidence: 0.006352
+2025-05-31 22:51:04,549 - INFO - short_term_score: 0.001429
+2025-05-31 22:51:04,549 - INFO - relevance_score: 0.003557
+2025-05-31 22:51:04,550 - INFO - direct_impact: 0.003029
+2025-05-31 22:51:04,550 - INFO - target_mentioned: 0.007530
+2025-05-31 22:51:04,550 - INFO - sentiment_label: 0.003478
+2025-05-31 22:51:04,550 - INFO - 
+Tầm quan trọng của các loại tin tức cho META:
+2025-05-31 22:51:04,550 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 22:51:04,550 - INFO - topic_ai_sector: 0.000000
+2025-05-31 22:51:04,551 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 22:51:04,551 - INFO - topic_financial_performance: 0.000000
+2025-05-31 22:51:04,551 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 22:51:04,551 - INFO - topic_competition: 0.000000
+2025-05-31 22:51:04,551 - INFO - topic_market_conditions: 0.000000
+2025-05-31 22:51:04,551 - INFO - topic_technology: 0.000000
+2025-05-31 22:51:14,857 - INFO - 
+Kết quả đánh giá trên tập validation cho NVDA:
+2025-05-31 22:51:14,857 - INFO - MAE: 0.1637
+2025-05-31 22:51:14,857 - INFO - MSE: 0.0343
+2025-05-31 22:51:14,857 - INFO - RMSE: 0.1851
+2025-05-31 22:51:14,857 - INFO - R²: -0.2738
+2025-05-31 22:51:15,029 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_NVDA.png
+2025-05-31 22:52:40,654 - INFO - 
+Kết quả đánh giá trên tập validation cho NVDA:
+2025-05-31 22:52:40,654 - INFO - MAE: 0.1189
+2025-05-31 22:52:40,655 - INFO - MSE: 0.0213
+2025-05-31 22:52:40,655 - INFO - RMSE: 0.1459
+2025-05-31 22:52:40,655 - INFO - R²: -0.1984
+2025-05-31 22:52:40,984 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_NVDA.png
+2025-05-31 22:52:56,203 - INFO - 
+Kết quả đánh giá trên tập validation cho NVDA:
+2025-05-31 22:52:56,203 - INFO - MAE: 0.5850
+2025-05-31 22:52:56,203 - INFO - MSE: 0.4000
+2025-05-31 22:52:56,203 - INFO - RMSE: 0.6325
+2025-05-31 22:52:56,204 - INFO - R²: -32.2227
+2025-05-31 22:52:56,540 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_NVDA.png
+2025-05-31 22:53:18,294 - INFO - 
+Kết quả đánh giá trên tập validation cho NVDA:
+2025-05-31 22:53:18,294 - INFO - MAE: 0.1628
+2025-05-31 22:53:18,294 - INFO - MSE: 0.0356
+2025-05-31 22:53:18,295 - INFO - RMSE: 0.1886
+2025-05-31 22:53:18,295 - INFO - R²: -0.8618
+2025-05-31 22:53:18,650 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_NVDA.png
+2025-05-31 22:53:39,727 - INFO - 
+Kết quả đánh giá trên tập validation cho NVDA:
+2025-05-31 22:53:39,727 - INFO - MAE: 0.4007
+2025-05-31 22:53:39,727 - INFO - MSE: 0.2949
+2025-05-31 22:53:39,728 - INFO - RMSE: 0.5430
+2025-05-31 22:53:39,728 - INFO - R²: -7.5766
+2025-05-31 22:53:40,056 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_NVDA.png
+2025-05-31 22:53:40,360 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_NVDA.png
+2025-05-31 22:53:40,445 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho NVDA:
+2025-05-31 22:53:40,445 - INFO - sentiment_score: 0.008639
+2025-05-31 22:53:40,445 - INFO - impact_score: 0.042354
+2025-05-31 22:53:40,445 - INFO - has_news: 0.010817
+2025-05-31 22:53:40,447 - INFO - medium_term_score: 0.006748
+2025-05-31 22:53:40,447 - INFO - prominence: 0.008449
+2025-05-31 22:53:40,447 - INFO - timeliness: 0.012707
+2025-05-31 22:53:40,447 - INFO - confidence: 0.006234
+2025-05-31 22:53:40,447 - INFO - short_term_score: 0.015075
+2025-05-31 22:53:40,447 - INFO - relevance_score: 0.007860
+2025-05-31 22:53:40,447 - INFO - direct_impact: 0.023269
+2025-05-31 22:53:40,448 - INFO - target_mentioned: 0.007342
+2025-05-31 22:53:40,448 - INFO - sentiment_label: 0.022790
+2025-05-31 22:53:40,448 - INFO - 
+Tầm quan trọng của các loại tin tức cho NVDA:
+2025-05-31 22:53:40,448 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 22:53:40,448 - INFO - topic_ai_sector: 0.000000
+2025-05-31 22:53:40,449 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 22:53:40,449 - INFO - topic_financial_performance: 0.000000
+2025-05-31 22:53:40,449 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 22:53:40,449 - INFO - topic_competition: 0.000000
+2025-05-31 22:53:40,450 - INFO - topic_market_conditions: 0.000000
+2025-05-31 22:53:40,450 - INFO - topic_technology: 0.000000
+2025-05-31 22:55:24,212 - INFO - 
+Kết quả đánh giá trên tập validation cho VCB:
+2025-05-31 22:55:24,214 - INFO - MAE: 0.0553
+2025-05-31 22:55:24,214 - INFO - MSE: 0.0036
+2025-05-31 22:55:24,214 - INFO - RMSE: 0.0602
+2025-05-31 22:55:24,215 - INFO - R²: 0.1638
+2025-05-31 22:55:24,501 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_VCB.png
+2025-05-31 22:56:19,985 - INFO - 
+Kết quả đánh giá trên tập validation cho VCB:
+2025-05-31 22:56:19,985 - INFO - MAE: 0.2980
+2025-05-31 22:56:19,985 - INFO - MSE: 0.1228
+2025-05-31 22:56:19,985 - INFO - RMSE: 0.3504
+2025-05-31 22:56:19,985 - INFO - R²: -4.6376
+2025-05-31 22:56:20,154 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_VCB.png
+2025-05-31 22:56:45,901 - INFO - 
+Kết quả đánh giá trên tập validation cho VCB:
+2025-05-31 22:56:45,901 - INFO - MAE: 0.1187
+2025-05-31 22:56:45,901 - INFO - MSE: 0.0157
+2025-05-31 22:56:45,901 - INFO - RMSE: 0.1254
+2025-05-31 22:56:45,902 - INFO - R²: -0.8358
+2025-05-31 22:56:46,068 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_VCB.png
+2025-05-31 22:57:21,804 - INFO - 
+Kết quả đánh giá trên tập validation cho VCB:
+2025-05-31 22:57:21,805 - INFO - MAE: 0.0804
+2025-05-31 22:57:21,805 - INFO - MSE: 0.0090
+2025-05-31 22:57:21,805 - INFO - RMSE: 0.0948
+2025-05-31 22:57:21,805 - INFO - R²: -4.9837
+2025-05-31 22:57:21,967 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_VCB.png
+2025-05-31 22:58:05,843 - INFO - 
+Kết quả đánh giá trên tập validation cho VCB:
+2025-05-31 22:58:05,843 - INFO - MAE: 0.0297
+2025-05-31 22:58:05,843 - INFO - MSE: 0.0013
+2025-05-31 22:58:05,844 - INFO - RMSE: 0.0357
+2025-05-31 22:58:05,844 - INFO - R²: -0.6441
+2025-05-31 22:58:06,007 - INFO - Đã lưu biểu đồ so sánh giá trị dự đoán và thực tế tại: c:\Users\milaa\Desktop\Dev\Python\this\models\predicted_vs_actual_VCB.png
+2025-05-31 22:58:06,160 - INFO - Đã lưu biểu đồ learning curves tại: c:\Users\milaa\Desktop\Dev\Python\this\models\learning_curves_VCB.png
+2025-05-31 22:58:06,233 - INFO - 
+Độ nhạy của các đặc trưng cảm xúc cho VCB:
+2025-05-31 22:58:06,233 - INFO - sentiment_score: 0.018956
+2025-05-31 22:58:06,233 - INFO - impact_score: 0.012937
+2025-05-31 22:58:06,234 - INFO - has_news: 0.013988
+2025-05-31 22:58:06,234 - INFO - medium_term_score: 0.004786
+2025-05-31 22:58:06,234 - INFO - prominence: 0.000896
+2025-05-31 22:58:06,234 - INFO - timeliness: 0.021189
+2025-05-31 22:58:06,234 - INFO - confidence: 0.008679
+2025-05-31 22:58:06,234 - INFO - short_term_score: 0.005059
+2025-05-31 22:58:06,234 - INFO - relevance_score: 0.001603
+2025-05-31 22:58:06,234 - INFO - direct_impact: 0.014847
+2025-05-31 22:58:06,234 - INFO - target_mentioned: 0.026344
+2025-05-31 22:58:06,234 - INFO - sentiment_label: 0.004198
+2025-05-31 22:58:06,234 - INFO - 
+Tầm quan trọng của các loại tin tức cho VCB:
+2025-05-31 22:58:06,234 - INFO - topic_regulatory_news: 0.000000
+2025-05-31 22:58:06,234 - INFO - topic_ai_sector: 0.000000
+2025-05-31 22:58:06,234 - INFO - topic_corporate_changes: 0.000000
+2025-05-31 22:58:06,235 - INFO - topic_financial_performance: 0.000000
+2025-05-31 22:58:06,235 - INFO - topic_investor_sentiment: 0.000000
+2025-05-31 22:58:06,235 - INFO - topic_competition: 0.000000
+2025-05-31 22:58:06,235 - INFO - topic_market_conditions: 0.000000
+2025-05-31 22:58:06,235 - INFO - topic_technology: 0.000000
